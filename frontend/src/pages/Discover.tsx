@@ -15,32 +15,34 @@ import { Badge } from '@/components/ui/badge';
 // Simulated video data
 const videos = [
   {
-    id: 'video1',
-    title: 'Modern Irrigation Techniques for Water Conservation',
-    channel: 'AgriculturalInnovators',
-    views: '45K',
-    timestamp: '2 weeks ago',
-    thumbnail: 'https://placehold.co/360x200/eee/2e4722?text=Irrigation+Techniques',
-    category: 'Smart Irrigation',
-    duration: '12:34'
-  },
-  {
-    id: 'video2',
-    title: 'Organic Pest Control Methods for Sustainable Farming',
-    channel: 'OrganicFarmingHub',
-    views: '32K',
-    timestamp: '3 days ago',
-    thumbnail: 'https://placehold.co/360x200/eee/2e4722?text=Organic+Pest+Control',
-    category: 'Organic Farming',
-    duration: '8:27'
-  },
+    "id": "video1",
+    "title": "Modern Irrigation Techniques for Water Conservation",
+    "channel": "AgriculturalInnovators",
+    "views": "45K",
+    "timestamp": "2 weeks ago",
+    "thumbnail": "https://img.youtube.com/vi/q7JnJ0oBa94/0.jpg",  // Thumbnail URL
+    "category": "Smart Irrigation",
+    "duration": "12:34",
+    "videoLink": "https://youtu.be/q7JnJ0oBa94?si=iQAMs6gF0yRRH2Nq"  // YouTube link for video display
+},
+{
+  "id": "video1",
+  "title": "Modern Irrigation Techniques for Water Conservation",
+  "channel": "AgriculturalInnovators",
+  "views": "45K",
+  "timestamp": "2 weeks ago",
+  "thumbnail": "https://i.pinimg.com/474x/63/d7/01/63d701a146d2eea47cb79de1d08071b2.jpg",
+  "category": "Smart Irrigation",
+  "duration": "12:34",
+  "videoLink": "https://youtu.be/q7JnJ0oBa94?si=iQAMs6gF0yRRH2Nq"
+},
   {
     id: 'video3',
     title: 'Using Drones for Crop Monitoring and Precision Agriculture',
     channel: 'TechForFarms',
     views: '67K',
     timestamp: '1 month ago',
-    thumbnail: 'https://placehold.co/360x200/eee/2e4722?text=Drones+in+Agriculture',
+    thumbnail: 'https://i.pinimg.com/474x/59/59/5f/59595fd81ad0f6848b9bbee433fce55f.jpg',
     category: 'New Technologies',
     duration: '15:42'
   },
@@ -50,7 +52,7 @@ const videos = [
     channel: 'SoilScience',
     views: '28K',
     timestamp: '5 days ago',
-    thumbnail: 'https://placehold.co/360x200/eee/2e4722?text=Soil+Health',
+    thumbnail: 'https://i.pinimg.com/474x/ca/82/fd/ca82fd3d17726d59bee683117a376347.jpg',
     category: 'Soil Management',
     duration: '10:15'
   },
@@ -60,7 +62,7 @@ const videos = [
     channel: 'SustainableFarming',
     views: '19K',
     timestamp: '2 weeks ago',
-    thumbnail: 'https://placehold.co/360x200/eee/2e4722?text=Crop+Rotation',
+    thumbnail: 'https://i.pinimg.com/474x/71/21/78/712178ef5527cab94a29aa2ebcf24d79.jpg',
     category: 'Sustainable Farming',
     duration: '13:51'
   },
@@ -70,9 +72,9 @@ const videos = [
     channel: 'ClimateAgroAdapt',
     views: '42K',
     timestamp: '3 weeks ago',
-    thumbnail: 'https://placehold.co/360x200/eee/2e4722?text=Climate+Smart+Agriculture',
+    thumbnail: 'https://i.pinimg.com/736x/69/a7/b0/69a7b08a1d39b9ca33ea7a5abd7c2f36.jpg',
     category: 'Climate Adaptation',
-    duration: '16:28'
+    duration: '24:28'
   },
 ];
 
