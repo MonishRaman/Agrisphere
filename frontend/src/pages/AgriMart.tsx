@@ -34,7 +34,7 @@ const products = [
     name: 'Organic Fertilizer - 10kg', 
     price: 1250, 
     rating: 4.5, 
-    image: 'https://placehold.co/300x200/eee/2e4722?text=Organic+Fertilizer',
+    image: 'https://i.pinimg.com/474x/e8/7e/41/e87e4152a7cacaeb0a1de1f1f21e0451.jpg',
     seller: { name: 'Green Earth Organics', location: 'Bangalore', rating: 4.8 },
     category: 'Fertilizers'
   },
@@ -43,7 +43,7 @@ const products = [
     name: 'High-Yield Tomato Seeds - 100g', 
     price: 450, 
     rating: 4.2, 
-    image: 'https://placehold.co/300x200/eee/2e4722?text=Tomato+Seeds',
+    image: 'https://i.pinimg.com/474x/ae/28/e0/ae28e0af8967f38a7b46967ebe011807.jpg',
     seller: { name: 'SeedTech Innovations', location: 'Chennai', rating: 4.6 },
     category: 'Seeds'
   },
@@ -52,7 +52,7 @@ const products = [
     name: 'Drip Irrigation Kit - Small Farm', 
     price: 3499, 
     rating: 4.7, 
-    image: 'https://placehold.co/300x200/eee/2e4722?text=Drip+Irrigation+Kit',
+    image: 'https://i.pinimg.com/736x/b0/a3/f5/b0a3f5445135b0fb40c07ffdf7d4d0fb.jpg',
     seller: { name: 'Modern Farm Solutions', location: 'Mumbai', rating: 4.9 },
     category: 'Irrigation'
   },
@@ -61,9 +61,27 @@ const products = [
     name: 'Stainless Steel Pruning Shears', 
     price: 599, 
     rating: 4.3, 
-    image: 'https://placehold.co/300x200/eee/2e4722?text=Pruning+Shears',
+    image: 'https://i.pinimg.com/474x/82/81/88/828188a7b0e53c7ae298d01e1c402e4d.jpg',
     seller: { name: 'AgriTools Ltd', location: 'Hyderabad', rating: 4.5 },
     category: 'Tools & Equipment'
+  },
+  { 
+    id: 5, 
+    name: 'Irrigation pipes', 
+    price: 599, 
+    rating: 4.3, 
+    image: 'https://i.pinimg.com/474x/d8/c8/16/d8c816b5ff7639a28eb414960e7cd95e.jpg',
+    seller: { name: 'AgriTools Ltd', location: 'Hyderabad', rating: 4.5 },
+    category: 'Irrigation'
+  },
+  { 
+    id: 6, 
+    name: 'Organic seeds', 
+    price: 599, 
+    rating: 4.3, 
+    image: 'https://i.pinimg.com/736x/a0/78/ea/a078ead582e8124a5e2e40334f6572c6.jpg',
+    seller: { name: 'AgriTools Ltd', location: 'Hyderabad', rating: 4.5 },
+    category: 'Organic Products'
   },
 ];
 
