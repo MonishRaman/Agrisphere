@@ -76,6 +76,96 @@ const videos = [
     category: 'Climate Adaptation',
     duration: '24:28'
   },
+  {
+    "id": 'video7',
+    "title": 'agriculture techniques for subsistance farming',
+    "channel": 'ClimateAgroAdapt',
+    "views": '42K',
+    "timestamp": '3 weeks ago',
+    "thumbnail": 'https://in.pinterest.com/pin/299419075247581059/',
+    "category": 'Climate Adaptation',
+    "duration": '16:28'
+  },
+  {
+    "id": 'video8',
+    "title": 'agriculture techniques for subsistance farming',
+    "channel": 'ClimateAgroAdapt',
+    "views": '42K',
+    "timestamp": '3 weeks ago',
+    "thumbnail": 'https://in.pinterest.com/pin/4151824650927836/',
+    "category": 'Climate Adaptation',
+    "duration": '16:28'
+  },
+  {
+    "id": 'video9',
+    "title": 'agriculture techniques for subsistance farming',
+    "channel": 'ClimateAgroAdapt',
+    "views": '42K',
+    "timestamp": '3 weeks ago',
+    "thumbnail": 'https://in.pinterest.com/pin/441986150944516627/',
+    "category": 'Climate Adaptation',
+    "duration": '16:28'
+  },
+  {
+  "id": 'video10',
+    "title": 'agriculture techniques for subsistance farming',
+    "channel": 'ClimateAgroAdapt',
+    "views": '42K',
+    "timestamp": '3 weeks ago',
+    "thumbnail": 'https://in.pinterest.com/pin/284993482662895296/',
+    "category": 'Climate Adaptation',
+    "duration": '16:28'
+  },
+  {
+    "id": 'video11',
+      "title": 'agriculture techniques for subsistance farming',
+      "channel": 'ClimateAgroAdapt',
+      "views": '42K',
+      "timestamp": '3 weeks ago',
+      "thumbnail": 'https://in.pinterest.com/pin/493636809161830534/',
+      "category": 'Climate Adaptation',
+      "duration": '16:28'
+    },
+    {
+      "id": 'video12',
+        "title": 'agriculture techniques for subsistance farming',
+        "channel": 'ClimateAgroAdapt',
+        "views": '42K',
+        "timestamp": '3 weeks ago',
+        "thumbnail": 'https://in.pinterest.com/pin/2674081020859152/',
+        "category": 'Climate Adaptation',
+        "duration": '16:28'
+      },
+      {
+        "id": 'video13',
+          "title": 'agriculture techniques for subsistance farming',
+          "channel": 'ClimateAgroAdapt',
+          "views": '42K',
+          "timestamp": '3 weeks ago',
+          "thumbnail": 'https://in.pinterest.com/pin/51791464459415285/',
+          "category": 'Climate Adaptation',
+          "duration": '16:28'
+        },
+        {
+          "id": 'video14',
+            "title": 'agriculture techniques for subsistance farming',
+            "channel": 'ClimateAgroAdapt',
+            "views": '42K',
+            "timestamp": '3 weeks ago',
+            "thumbnail": 'https://in.pinterest.com/pin/105271710033945560/',
+            "category": 'Climate Adaptation',
+            "duration": '16:28'
+          },
+          {
+            "id": 'video15',
+              "title": 'agriculture techniques for subsistance farming',
+              "channel": 'ClimateAgroAdapt',
+              "views": '42K',
+              "timestamp": '3 weeks ago',
+              "thumbnail": 'https://in.pinterest.com/pin/42362052738910159/',
+              "category": 'Climate Adaptation',
+              "duration": '16:28'
+            },
 ];
 
 const categories = [
