@@ -42,9 +42,9 @@ const Contact = () => {
                   <div>
                     <h3 className="text-xl font-semibold mb-2">Our Location</h3>
                     <p className="text-muted-foreground">
-                      123 Agri Tower, Green Avenue<br />
-                      Farm City - 560001<br />
-                      Karnataka, India
+                      Dayananda Sagar Academy of Technology and Management<br />
+                      Knakpura Road - 560082<br />
+                      Bangalore, Karnataka, India
                     </p>
                   </div>
                 </div>
@@ -118,7 +118,7 @@ const Contact = () => {
                       </label>
                       <Input 
                         id="name" 
-                        placeholder="John Doe" 
+                        placeholder="Agro Sphere" 
                         required 
                         className="agro-input"
                       />
@@ -130,7 +130,7 @@ const Contact = () => {
                       <Input 
                         id="email" 
                         type="email" 
-                        placeholder="john@example.com" 
+                        placeholder="AgroSphere123@gmail.com" 
                         required 
                         className="agro-input"
                       />
