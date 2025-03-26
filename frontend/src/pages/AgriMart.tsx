@@ -20,12 +20,12 @@ import { Badge } from '@/components/ui/badge';
 import { Avatar } from '@/components/ui/avatar';
 
 const categories = [
-  { id: 1, name: 'Seeds', count: 152, image: 'https://placehold.co/80x80/eee/2e4722?text=Seeds' },
-  { id: 2, name: 'Fertilizers', count: 89, image: 'https://placehold.co/80x80/eee/2e4722?text=Fertilizers' },
-  { id: 3, name: 'Tools & Equipment', count: 124, image: 'https://placehold.co/80x80/eee/2e4722?text=Tools' },
-  { id: 4, name: 'Pesticides', count: 67, image: 'https://placehold.co/80x80/eee/2e4722?text=Pesticides' },
-  { id: 5, name: 'Irrigation', count: 53, image: 'https://placehold.co/80x80/eee/2e4722?text=Irrigation' },
-  { id: 6, name: 'Organic Products', count: 72, image: 'https://placehold.co/80x80/eee/2e4722?text=Organic' },
+  { id: 1, name: 'Seeds', count: 152, image: 'https://i.pinimg.com/474x/cd/00/f0/cd00f05d552d0a515750eac65476eac3.jpg' },
+  { id: 2, name: 'Fertilizers', count: 89, image: 'https://i.pinimg.com/474x/76/47/fb/7647fbd26fd562b3c05c790f68f24449.jpg' },
+  { id: 3, name: 'Tools & Equipment', count: 124, image: 'https://i.pinimg.com/474x/eb/79/bf/eb79bfd7d97d69248202fad7b304a793.jpg' },
+  { id: 4, name: 'Pesticides', count: 67, image: 'https://i.pinimg.com/474x/a5/d0/8d/a5d08d1a0f491e800ac4817f499d1434.jpg' },
+  { id: 5, name: 'Irrigation', count: 53, image: 'https://i.pinimg.com/736x/ed/80/ab/ed80ab4d82b59b67b08755c23e167557.jpg' },
+  { id: 6, name: 'Organic Products', count: 72, image: 'https://i.pinimg.com/474x/20/35/6a/20356a710903f9cb96c8cd53fcf6db2c.jpg' },
 ];
 
 const products = [
